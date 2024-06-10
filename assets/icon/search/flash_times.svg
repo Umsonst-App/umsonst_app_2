@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="flash_times.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:zoom="1.2631809"
+     inkscape:rotation="-12"
+     inkscape:cx="632.69007"
+     inkscape:cy="191.659"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="1680"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:0.99;fill:none;stroke:#d9d9d9;stroke-width:1.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle2415"
+       sodipodi:type="arc"
+       sodipodi:cx="-37.110565"
+       sodipodi:cy="-140.99203"
+       sodipodi:rx="11.365412"
+       sodipodi:ry="11.365412"
+       sodipodi:start="0.11831402"
+       sodipodi:end="1.9507822"
+       sodipodi:arc-type="arc"
+       d="m -25.824608,-139.65048 a 11.365412,11.365412 0 0 1 -5.479204,8.42851 11.365412,11.365412 0 0 1 -10.022268,0.78465"
+       sodipodi:open="true"
+       transform="matrix(0,-1,-1,0,0,0)"
+       inkscape:export-filename="/home/lukas/git/flutter/icon/search/flash_tims.png"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+    <circle
+       style="opacity:0.99;fill:none;stroke:#fdb548;stroke-width:1.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle2417"
+       sodipodi:type="arc"
+       sodipodi:cx="-37.110565"
+       sodipodi:cy="-140.99203"
+       sodipodi:rx="11.365412"
+       sodipodi:ry="11.365412"
+       sodipodi:start="4.3119548"
+       sodipodi:end="6.1836618"
+       sodipodi:arc-type="arc"
+       d="m -41.54101,-151.45835 a 11.365412,11.365412 0 0 1 10.229097,0.69144 11.365412,11.365412 0 0 1 5.510519,8.64562"
+       sodipodi:open="true"
+       transform="matrix(0,-1,-1,0,0,0)"
+       inkscape:export-filename="/home/lukas/git/flutter/icon/search/flash_tims.png"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+    <circle
+       style="opacity:0.99;fill:none;stroke:#fdb548;stroke-width:1.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle2419"
+       sodipodi:type="arc"
+       sodipodi:cx="-37.110565"
+       sodipodi:cy="-140.99203"
+       sodipodi:rx="11.365412"
+       sodipodi:ry="11.365412"
+       sodipodi:start="2.2017346"
+       sodipodi:end="4.0811964"
+       sodipodi:arc-type="arc"
+       d="m -43.815052,-131.81476 a 11.365412,11.365412 0 0 1 -4.660925,-9.17583 11.365412,11.365412 0 0 1 4.658592,-9.17702"
+       sodipodi:open="true"
+       transform="matrix(0,-1,-1,0,0,0)"
+       inkscape:export-filename="/home/lukas/git/flutter/icon/search/flash_tims.png"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+    <ellipse
+       style="opacity:0.99;fill:#b7890d;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3554"
+       cx="140.83305"
+       cy="37.002632"
+       rx="0.017732315"
+       ry="0.014896479"
+       inkscape:export-filename="/home/lukas/git/flutter/icon/search/flash_tims.png"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       id="path4026"
+       d="" />
+  </g>
+</svg>
