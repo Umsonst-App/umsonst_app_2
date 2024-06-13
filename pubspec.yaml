@@ -76,6 +76,15 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/images/search/photo_2021-11-18_13-51-38.jpg
+    - assets/images/vector.svg
+    - assets/images/photo_2021-07-15_22-49-51.jpg
+    - assets/images/umsonstapp_logo.png
+    - assets/images/onboarding/step1.svg
+    - assets/images/onboarding/step2.svg
+    - assets/images/onboarding/step3.svg
+    - assets/images/onboarding/step4.svg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
@@ -99,6 +108,13 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
+  fonts:
+    - family: Kalam
+      fonts:
+        - asset: fonts/Kalam-Regular.ttf
+        - asset: fonts/Kalam-Bold.ttf
+          weight: 700
+
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

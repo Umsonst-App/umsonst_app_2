@@ -12,7 +12,7 @@ import 'onboarding_location.dart';
 
 class OnboardRegisterScreen extends StatelessWidget {
   final HttpService httpService =
-  HttpService(baseApiUrl: "http://teilen.umsonstapp.de");
+  HttpService(baseApiUrl: "http://.umsonstapp.de");
 
   OnboardRegisterScreen({Key? key}) : super(key: key) {
     _initializeScreen();
@@ -90,11 +90,17 @@ class OnboardRegisterScreen extends StatelessWidget {
             Padding(
               padding: EdgeInsets.only(
                   top: 12, bottom: MediaQuery.of(context).viewInsets.bottom),
-              child: OnboardInput(
-                label: 'Passwort',
-                onChange: (value) {_password = value;},
-                validator: (String? value) {},
-              ),
+              child: OnboardPasswordInput(
+              label: 'Passwort',
+              onChange: (value) {_password = value;},
+              validator: (String? value) {},
+            ),
+
+              //OnboardInput(
+                //label: 'Passwort',
+                //onChange: (value) {_password = value;},
+                //validator: (String? value) {},
+              // ),
             ),
             Padding(
               padding: const EdgeInsets.only(top: 48),

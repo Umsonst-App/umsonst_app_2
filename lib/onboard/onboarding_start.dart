@@ -67,7 +67,7 @@ class OnboardStartWidget extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.only(bottom: 26),
               child: Text(
-                'umsonstApp - die App fürs Teilen',
+                'umsonstApp - die App fürs ',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 20,

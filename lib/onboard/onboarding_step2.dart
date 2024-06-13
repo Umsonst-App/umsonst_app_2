@@ -40,7 +40,7 @@ class OnboardingStep2 extends StatelessWidget {
               ),
             ),
             const Text(
-              'Hast du etwas über? Und gibt es etwas, dass du teilen möchtest?',
+              'Hast du etwas über? Und gibt es etwas, dass du  möchtest?',
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 18,

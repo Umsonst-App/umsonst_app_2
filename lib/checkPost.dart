@@ -6,7 +6,7 @@ import 'components/feedCardWidget.dart';
 
 class CheckPostWidget extends StatelessWidget {
   final HttpService httpService =
-  HttpService(baseApiUrl: "http://teilen.umsonstapp.de");
+  HttpService(baseApiUrl: "http://02064-54968.pph-server.de/");
   List<String> images = [];
   final String title;
   final String description;

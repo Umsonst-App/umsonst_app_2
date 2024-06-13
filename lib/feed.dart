@@ -15,7 +15,7 @@ class FeedWidget extends StatefulWidget {
 
 class _FeedWidgetState extends State<FeedWidget> {
   final HttpService httpService =
-      HttpService(baseApiUrl: "http://teilen.umsonstapp.de");
+      HttpService(baseApiUrl: "http://.umsonstapp.de");
   List<FeedCardWidget> _postsWidgets = [];
 
   @override

@@ -119,7 +119,7 @@ class OnboardingLocation extends StatelessWidget {
                 ),
               ),
               const Text(
-                'Die umsonstApp wirkt in deinem Umfeld und verbindet dich mit anderen Menschen für’s Teilen.',
+                'Die umsonstApp wirkt in deinem Umfeld und verbindet dich mit anderen Menschen für’s .',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 18,

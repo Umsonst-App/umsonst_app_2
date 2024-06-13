@@ -57,7 +57,7 @@ class DevModeScreenWidget extends StatelessWidget {
       print(address);
       _controller.text = address;
     }else{
-      _controller.text = "http://teilen.umsonstapp.de";
+      _controller.text = "http://.umsonstapp.de";
     }
   }
 }

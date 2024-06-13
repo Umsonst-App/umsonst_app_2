@@ -9,7 +9,7 @@ import '../main.dart';
 
 class LoginScreen extends StatelessWidget {
   final HttpService httpService =
-  HttpService(baseApiUrl: "http://teilen.umsonstapp.de");
+  HttpService(baseApiUrl: "http://.umsonstapp.de");
 
   LoginScreen({Key? key}) : super(key: key) {
     _initializeScreen();
@@ -62,7 +62,7 @@ class LoginScreen extends StatelessWidget {
                     fontFamily: 'Kalam',
                     height: 1,
                     fontWeight: FontWeight.w700,
-                    color: Color(0xFFFF918A),
+                    color: Color(0xFF0627AD),
                   ),
                 ),
               ),
@@ -78,7 +78,7 @@ class LoginScreen extends StatelessWidget {
               ),
               Padding(
                 padding: EdgeInsets.only(top: 12, bottom: MediaQuery.of(context).viewInsets.bottom),
-                child: OnboardInput(
+                child: OnboardPasswordInput(
                   label: 'Passwort',
                   onChange: (text) {
                     _password = text;
