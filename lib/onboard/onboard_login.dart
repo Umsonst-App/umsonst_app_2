@@ -4,6 +4,7 @@ import 'package:umsonst_app_2/api/http_api.dart';
 import 'package:umsonst_app_2/api/model/token_post.dart';
 import 'package:umsonst_app_2/components/onboard_button.dart';
 import 'package:umsonst_app_2/components/onboard_input.dart';
+import 'package:umsonst_app_2/onboard/onboard_register.dart';
 
 import '../main.dart';
 
@@ -98,6 +99,18 @@ class LoginScreen extends StatelessWidget {
                       fontWeight: FontWeight.w500,
                     ),
                   ),
+                ),
+              ),
+              TextButton(
+                onPressed: () {
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => OnboardRegisterScreen()));
+                },
+                child: const Text(
+                  'Registrieren',
+                  style: TextStyle(color: Color(0xFF78746D)),
                 ),
               ),
             ],

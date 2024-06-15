@@ -24,7 +24,8 @@ class OnboardRegisterScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SingleChildScrollView(
+    return Scaffold(
+        body: SingleChildScrollView(
       child: Padding(
         padding: const EdgeInsets.only(left: 30, right: 30, top: 75),
         child: Column(
@@ -138,6 +139,7 @@ class OnboardRegisterScreen extends StatelessWidget {
           ],
         ),
       ),
+    ),
     );
   }
 
